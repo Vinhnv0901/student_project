@@ -1,10 +1,9 @@
-# <center>Course Recommendation for University Environments</center>
+<h1 align="center">Course Recommendation for University Environments</h1>
 
 ##1. dataset.
-###1.1. statistic dataset
-* data set is collected from row data of university of information technology from 2013 to 2016
-* in the data set includes 96269 registration lines from 4049 students and 10 faculties managing subjects.
-
+###1.1. statistic dataset.
+  data set is collected from row data of university of information technology from 2013 to 2016
+  in the data set includes 96269 registration lines from 4049 students and 10 faculties managing subjects.
 ###1.1.2. split train and test data.
 * Divide the number of random students in the ratio 8:2 as train and test, respectively.
 * In which test data only takes data from 2013 to 2015. The reason is because 2 periods of 2016 will be used for prediction.
